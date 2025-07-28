@@ -6,5 +6,3 @@ docker pull 9705263883/simple-python-flask-app
 
 # Run the Docker image as a container
 docker run -d -p 5000:5000 9705263883/simple-python-flask-app
-
-
